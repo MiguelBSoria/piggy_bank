@@ -1,0 +1,7 @@
+{
+  "name": "piggy_bank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
